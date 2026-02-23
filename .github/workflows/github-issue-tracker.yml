@@ -1,4 +1,4 @@
-xrname: GitHub Issue Tracker with Feishu Notification
+name: GitHub Issue Tracker with Feishu Notification
 
 on:
   issues:
