@@ -11,7 +11,7 @@ on:
 jobs:
   process-new-issue:
     if: github.event_name == 'issues'
-    runs-on: ubuntu-latestx
+    runs-on: ubuntu-latest
     permissions:
       issues: write
       contents: read
